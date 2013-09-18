@@ -1,0 +1,50 @@
+1 Grössen und Einheiten
+
+Buch (Halliday): Abschnitte 1.1 - 1.3
+
+1.1 Masseinheiten
+SI-Basiseinheiten
+
+Grösse		Einheitenname	Zeichen
+Länge		Meter		m
+Zeit		Sekunde		s
+Masse		Kilogramm	kg
+el. Strom	Ampere		A	
+Temperatur	Kelvin		K
+Stoffmenge	Mol		mol
+Lichtstärke	Candela		cd
+
+
+Abgeleitete Einheiten
+1 Watt = 1W = 1 (kg*m*m/s*s*s) = 1 (kg*m^2/s^3)
+
+Exponentialdarstellung
+Beispiele:
+3 560 000 000 m = 3,59 * 10^9 m = 3.56E9
+0,000 000 492 s = 4,92 * 10^-7 s = 4.92E-7
+
+Präfixe
+Faktor		Präfix		Zeichen
+10^9		Giga-		G
+10^6		Mega-		M
+10^3		Kilo-		k
+10^-2		Zenti-		c
+10^-3		Milli-		m
+10^-6		Mikro-		(mü)
+10^-9		Nano-		n
+10^-12		Piko-		p
+
+Beispiele:
+1,27 * 10^9 Watt = 1,27 Gigawatt = 1,27 GW
+2,35 * 10^-9 Sekunden = 2,35 Nanosekunden = 2,35 ns
+
+Signifikante Stellen
+Anzahl signifikanter Stellen != Anzahl Nachkommastellen
+
+Die Anzahl signifikanter Stellen im Endergebnis ist nie grösser als die derjenigen Grösse mit der wenigsten signifkanten Stellen.
+
+Beispiele:
+3,15 -> 3 signifikante Stellen
+3,15 * 10^3 -> 3 signifikante Stellen
+3000 -> 4(1) signifikante Stellen
+3,000 * 10^3 -> 4 signifikante Stellen

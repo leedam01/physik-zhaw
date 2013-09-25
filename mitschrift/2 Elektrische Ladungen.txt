@@ -1,0 +1,23 @@
+2 Elektrische Ladungen
+
+Buch(Halliday): Kapitel 22
+
+2.1 Elektrostatik
+- Positive Ladung(+)
+- Negative Ladung(-)
+Ladungen mit gleichen Vorzeichen stossen einander ab.
+Ladungen mit ungleichem Vorzeichen ziehen einander an.
+Elektrostatik: ruhende Ladungen
+
+2.2 Leiter und Isolatoren
+Aufbau eines Atoms:
+weiss Neutronen
+rot Protonen(+)
+blau Elektronen(-)	(2n^2 Elektronen pro Bahn)
+
+Leiter:äussere Elektronen(Valenzelektronen) können sich frei bewegen (Leitungselektronen)
+Isolatoren/Nichtleiter: keine Leitungselektronen
+Halbleiter: zwischen Leitern und Isolatoren
+Supraleiter: keinerlei Widerstand
+
+ 

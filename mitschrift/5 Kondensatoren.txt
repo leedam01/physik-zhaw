@@ -1,0 +1,56 @@
+5 Kondensatoren
+-----------------
+Buch(Halliday): Kapitel 26
+Buch(Beuth): Abschnitte 3.1(Rep.), 3.2(Theoriefragen, ausser S.50 Farbring), 3.5(Rep. nach nächsten Mal)
+Tipler, Physik: Abschnitte 24.4, 24.5 (Selbststudium)
+
+Notationsänderungen: 
+V->U
+Q->q (Beuth)
+
+5.1 Kapazitäten
+----------------
+Elektrische Spannung: 
+U=delta_phi =phi_b - phi_a
+[U]= V 		(Volt)
+Kapazität:
+C=q/U
+[C]=C/V=F	(Farrad)
+
+Plattenkondensator
+C=epsilon*A/d		A -Fläche	d -Abstand	epsilon=epsilon0*epsilon_r
+
+Zylinderkondensator
+
+Kugelkondensator
+C=4*pi*epsilon*ab/(b-a)
+
+Isolierte Kugel
+C_Kugelkondensator=4*pi*epsilon*a/(1-(a/b))
+lim 4*pi*epsilon*a(1-(a/b))=4*pi*epsilon*a
+C=4*pi*epsilon*r
+
+
+5.2 Ersatzkapazitäten
+---------------------
+Parallelschaltung
+Spannung ist über jeden Kondensator gleich.
+Gesamtladung ist Summe der Ladungen aller Kondensatoren.
+C=C1+C2+C3+..
+
+Reihenschaltung/Serienschaltung
+Ladung ist in jedem Kondensator gleich.
+Anliegende Spannung ist Summe der Spannungen über alle Kondensatoren
+1/C =1/C1 + 1/C2 + 1/C3 + ..
+1=1/(1/C1 + 1/C2 + 1/C3 + ..)
+
+5.3 Dielektrika
+----------------
+epsilon=epsilon_rel*epsilon_0
+=> E = epsilon_0/epsilon_rel
+=> U = Ed=U_0/epsilon_rel
+=> C = 1/U = epsilon_rel*epsilon_0
+mit epsilon_rel: relative Dielektrizitätskonstante/Permittivitätszahl
+
+Einheiten: [epsilon_rel]=1
+[epsilon_0]=[epsilon]=C^2 /(N*m^2)=F/m

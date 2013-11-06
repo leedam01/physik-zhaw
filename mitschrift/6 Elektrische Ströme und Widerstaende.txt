@@ -1,0 +1,14 @@
+6 Elektrische Ströme und Widerstände
+-------------------------------------
+Buch(Halliday): Abschnitte 27.1 -27.7, ohne Abschnitte 27.3, 27.6
+Buch(Beuth): Abschnitte 2.1-2.4, 2.2.1. nur qualitativ
+
+Notationsänderungen:
+i -> I (Halliday)
+Q -> q (Beuth)
+V -> T (Beuth)
+(Widerstand gezackte Welle) -> (Widerstand Rechteck) (Halliday)
+
+6.1 Elektrischer Strom
+I=delta_q/delta_t
+[]

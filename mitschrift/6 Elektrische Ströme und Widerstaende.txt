@@ -11,4 +11,11 @@ V -> T (Beuth)
 
 6.1 Elektrischer Strom
 I=delta_q/delta_t
-[]
+[I]=U/R=A (Ampère)
+
+6.2 Widerstände
+R=U/I
+[R]=V/A=omega (Ohm)
+
+Spezifischer Widerstand
+[rho]=omega_m

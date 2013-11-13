@@ -1,0 +1,9 @@
+7 Stromkreise
+--------------
+Buch(Halliday): Kapitel 2.8
+Notationsänderungen:
+e_kursiv->U_Q
+r->R_innen
+
+7.1 Spannungsquellen
+--------------------

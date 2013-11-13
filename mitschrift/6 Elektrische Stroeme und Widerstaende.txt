@@ -1,0 +1,46 @@
+6 Elektrische Ströme und Widerstände
+-------------------------------------
+Buch(Halliday): Abschnitte 27.1 -27.7, ohne Abschnitte 27.3, 27.6
+Buch(Beuth): Abschnitte 2.1-2.4, 2.2.1. nur qualitativ (Selbststudium)
+
+Notationsänderungen:
+i -> I (Halliday)
+Q -> q (Beuth)
+V -> T (Beuth)
+(Widerstand gezackte Welle) -> (Widerstand Rechteck) (Halliday)
+
+6.1 Elektrischer Strom
+I=delta_q/delta_t
+[I]=U/R=A (Ampère)
+
+6.2 Widerstände
+R=U/I
+[R]=V/A=omega (Ohm)
+
+Spezifischer Widerstand
+[rho]=omega_m
+
+Widerstand eines Drahtes:
+R=rho*l/A
+
+Spezifische Leitfähigkeit
+phi=1/rho
+[phi]=1/omega_m
+
+Leitfähigkeit
+G=I/U=1/R
+[G]=A/V=1/omega=mho=S (Siemens)
+
+Temperaturabhängigkeit
+rho=rho_0+rho_1*alpha*(T-T_0)
+R=R_0+R_1*alpha*(T-T_0)
+mit alpha: Temperaturkoeffizient
+[alpha]=1/K=1/°C
+
+Ohmsches Gesetz
+I proportional U
+
+Elektrische Leistung
+Allgemein: P=U*I
+[P]=VA=J/C*C/s=J/s=W (Watt)
+Widerstand: P=I^2*R= U^2/R

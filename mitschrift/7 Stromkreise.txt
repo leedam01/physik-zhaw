@@ -1,9 +1,81 @@
 7 Stromkreise
 --------------
-Buch(Halliday): Kapitel 2.8
+Buch(Halliday): Kapitel 28
 Notationsänderungen:
 e_kursiv->U_Q
 r->R_innen
 
 7.1 Spannungsquellen
 --------------------
+Ideale Spannungsquelle
+Klemmenspannung:
+U_K=U_Q mit U_Q:Quellenspannung
+
+Reale Spannungsquelle
+U_K=U_Q*R/(R+R_innen)=U_Q-I*R_innen
+
+
+7.2 Kirchhoffsche Regeln
+------------------------
+Maschenregel:
+Die Summe aller Spannungen einer geschlossenen Masche/Schleife ist null.
+Summe(n,i=1): U_i=0
+
+Abbildung 28.3 (S.582):
+phi_a + U_Q - I*R = phi_a => U_Q - I*R = 0
+
+Andere Richtung
+..
+
+Abbildung 28.4(S.584):
+U_Q - I*R_innen - I*R = 0
+
+Spannungsregel:
+in Richtung Spannungspfeil => delta_phi = +U_Q
+entgegen Richtung Spannungspfeil => delta_phi = -U_Q
+
+Widerstandsregel:
+in Stromrichtung => delta_phi = -I*R
+entgegen Stromrichtung => delta_phi = +I*R
+
+Knotenregel/Verzweigungsregel:
+Die Summe aller Strome eines Verzweigungspunkts/-knotens ist null.
+Summe(n,i=1): I_i=0
+
+Abbildung 28.7 (S.588)
+Punkt d: I_1 + I_3 = I_2  | -I_2
+	 I_1 - I_2 + I_3 = 0
+Punkt b: -I_1 - I_3 + I_2 = 0
+
+
+7.3 Ersatzwiderstände
+----------------------
+Reihenschaltung
+- Strom ist in jedem Widerstand gleich.
+
+Parallelschaltung
+- Spannung ist über jeden Widerstand gleich.
+- Gesamtstrom ist Summe der Ströme aller Widerstände.
+  1/R = 1/R_1 + 1/R_2 + 1/R_3 + ...
+
+Achtung: Reihen-/Parallelschaltung von Widerständen <=> Parallel-/Reihenschaltung von Kondensatoren
+
+Beispielaufgabe 28.3 (mal anschauen->Ideen), ohne Beispielaufgabe 28.4
+
+7.4 Messgeräte(->lesen 28.7)
+--------------
+Gerät			Messung			Schaltung			Innenwiderstand
+Amperemeter		I(Strom messen)		in Stromkreis			möglichst klein
+Voltmeter		U			parallel zu Potenzialdifferenz	möglichst gross
+Ohmmeter		R			Anschluss des Bauteils		-
+Multimeter(kann durch umschalten sowohl Ampere wie Volt messen)
+
+7.5 RC-Kreise
+--------------
+Laden eines Kondensators
+q(t)=CU(1-e^(-t/RC))
+I(t) = dq/dt=(U/R)*e^(-t/RC)
+
+Enladen eines Kondensators
+q(t)=q_0*e^(-t/RC)
+I(t)=dq/dt=-(q_0/RC)*e^(-t/RC) 

@@ -1,0 +1,5 @@
+11 Integrierte Schaltungen
+---------------------------
+Beuth, Digitaltechnik:
+Abschnitte 6.1 - 6.3, 6.5(ohne 6.5.3), 6.8
+Abschnitte 12.3 - 12.6 (Selbststudium)

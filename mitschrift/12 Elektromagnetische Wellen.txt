@@ -1,0 +1,23 @@
+12 Elektromagnetische Wellen
+-----------------------------
+Buch(Halliday): Kapitel 34, ohne Abschnitte 34.3-34.5
+Buch(Beuth): Abschnitt 12.9
+
+12.1 Elektromagnetisches Spektrum
+
+12.2 Elektrische Dipolstrahlung
+Dipol(Antenne)
+Lichtgeschwindigkeit: (Vakuum)
+c=299 792 459 m/s ~=3,00*10^8 m/s
+
+12.3 Polarisation
+Polarisationsfilter
+Polarisation zufällig polarisierten Lichts:
+I=0.5 I_0	mit I: Intensität (Helligkeit)
+
+Polarisation bereits polarisierten Lichts:
+I=I_0*cos^2 Theta	mit Theta Winkel zwischen E und Filter
+
+12.4 Reflexion und Brechung
+Theta: Winkel bzgl. der Flächennormalen
+Reflexionsgesetz: Theta_1' = Theta_1
